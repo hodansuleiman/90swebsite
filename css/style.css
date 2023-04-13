@@ -1,0 +1,54 @@
+body {
+    font-family: 'Old Standard TT', serif;
+    background-image: url('https://wallpapers.com/images/featured/90s-38sbi3e1in5kjdpl.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .navbar{
+    padding: 12px 10px;
+    text-align: center;
+    font-weight: 300;
+    background-color: #B284BE;
+}
+
+.navbar a {
+  text-decoration: none;
+  padding: 10px;
+}
+
+.navbar a:hover {
+  color: black;
+}
+
+
+  h1 {
+    font-weight: 600;
+    margin: 30px;
+    padding: 40px;
+    color: yellow;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-weight: 400;
+    color: yellow;
+    text-align: center;
+}
+
+
+
+header {
+
+  padding: 10px 0;
+  margin: 0;
+}
+ img{
+  display: flex;
+  max-width: 100%;
+  flex-wrap: wrap;
+  padding: 10px;
+  gap: 30px;
+  justify-content: center;
+ }
